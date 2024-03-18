@@ -4,6 +4,8 @@ description = "MTS-ESP client bindings"
 version = "0.1.0"
 edition = "2021"
 authors = ["Joakim Frostegård <joakim.frostegard@gmail.com>"]
+license = "0BSD"
+license-file = "LICENSE.txt"
 
 [dependencies]
 

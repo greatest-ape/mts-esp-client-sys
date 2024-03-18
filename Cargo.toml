@@ -9,4 +9,3 @@ authors = ["Joakim Frostegård <joakim.frostegard@gmail.com>"]
 
 [build-dependencies]
 cc = "1.0"
-bindgen = "0.69"
